@@ -4,3 +4,5 @@ $pdo = new PDO("mysql:dbname=epiz_33120376_Crud_PHP;host=http://185.27.134.10/:3
 $sql = $pdo->query('SELECT * FROM usuario')
 
 ?>
+
+https://www.youtube.com/watch?v=R19QXNzY504 16:39
